@@ -12,7 +12,7 @@ This repository documents my hands-on DevOps learning journey through daily prac
 
 ## Progress
 - [x] Day 1 - User management
-- [ ] Day 2
+- [x] Day 2 - user lifecycle management
 - [ ] Day 3
 
 ## Structure
