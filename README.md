@@ -14,7 +14,7 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 1 - User management
 - [x] Day 2 - user lifecycle management
 - [x] Day 3 - secure root SSH access
-- [x] Day 4 - 
+- [x] Day 4 - Grant execute permission to all users 
 
 ## Structure
 Each day contains:
