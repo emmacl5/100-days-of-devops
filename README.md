@@ -13,7 +13,8 @@ This repository documents my hands-on DevOps learning journey through daily prac
 ## Progress
 - [x] Day 1 - User management
 - [x] Day 2 - user lifecycle management
-- [ ] Day 3
+- [x] Day 3 - secure root SSH access
+- [x] Day 4 - 
 
 ## Structure
 Each day contains:
