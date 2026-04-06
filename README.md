@@ -16,7 +16,18 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 3 - secure root SSH access
 - [x] Day 4 - Grant execute permission to all users 
 - [x] Day 5 - SELinux Installation and Configuration
-
+- [x] Day 6 - Create a Cron Job
+- [x] Day 7 - Linux SSH Authentication 
+- [x] Day 8 - Install Ansible
+- [x] Day 9 - MariaDB Troubleshooting
+- [x] Day 10 - Linux Bash Scripts
+- [x] Day 11 - Install and Configure Tomcat Server
+- [x] Day 12 - Linux Network Services
+- [x] Day 13 - IPtables Installation and Configuration
+- [x] Day 14 - Linux Process Troubleshooting
+- [x] Day 15 - Setup SSL for Nginx
+- [x] Day 16 - Install and Configure Nginx as an LBR
+- [x] Day 17 - Install and Configure PostgreSQL
 
 ## Structure
 Each day contains:
