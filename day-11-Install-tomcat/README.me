@@ -1,0 +1,52 @@
+# Day 11 - Install and Configure Tomcat Server
+
+## Task
+- Install Tomcat on App Server 1
+- Configure it to run on port 8083
+- Deploy ROOT.war file
+- Verify application is accessible via base URL
+
+---
+
+## Server
+- App Server 1: stapp01
+
+---
+
+## Commands Used
+
+### 1. Install Tomcat
+```bash
+sudo yum install -y tomcat
+
+### 2. Configure port
+```bash
+sudo vi /etc/tomcat/server.xml
+
+### Change:
+<Connector port="8080"
+
+To:
+<Connector port="8083"
+
+### 3. Start Tomcat
+```bash
+sudo systemctl start tomcat
+sudo systemctl enable tomcat
+
+### 4. Copy WAR file
+
+scp /tmp/ROOT.war tony@stapp01:/tmp/
+
+### 5. Deploy application
+````bash
+sudo cp /tmp/ROOT.war /usr/share/tomcat/webapps/
+
+### 6. Restart Tomcat
+````bash
+sudo systemctl restart tomcat
+
+### 7. Verification
+```bash
+curl http://stapp01:8083
+
