@@ -28,6 +28,10 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 15 - Setup SSL for Nginx
 - [x] Day 16 - Install and Configure Nginx as an LBR
 - [x] Day 17 - Install and Configure PostgreSQL
+- [x] Day 18 - Install and Configure DB Server
+- [x] Day 19 - Install and Configure Web Application
+
+
 
 ## Structure
 Each day contains:
