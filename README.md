@@ -30,7 +30,7 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 17 - Install and Configure PostgreSQL
 - [x] Day 18 - Install and Configure DB Server
 - [x] Day 19 - Install and Configure Web Application
-
+- [x] Day 20 - Configure Nginx with PHP-FPM 8.2 Using Unix Socket
 
 
 ## Structure
