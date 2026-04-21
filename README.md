@@ -32,6 +32,10 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 19 - Install and Configure Web Application
 - [x] Day 20 - Configure Nginx with PHP-FPM 8.2 Using Unix Socket
 - [x] Day 21 - Set Up a Bare Git Repository
+- [x] Day 22 - Clone Git Repository on Storage Server
+- [x] Day 23 - Fork a Git Repository
+- [x] Day 24 - Git Create Branches
+- [x] Day 25 - Git Merge Branches
 
 ## Structure
 Each day contains:
