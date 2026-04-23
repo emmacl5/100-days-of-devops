@@ -36,6 +36,11 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 23 - Fork a Git Repository
 - [x] Day 24 - Git Create Branches
 - [x] Day 25 - Git Merge Branches
+- [x] Day 26 - Git Manage Remotes
+- [x] Day 27 - Git Revert Some Changes
+- [x] Day 28 - Git Cherry Pick
+- [x] Day 29 - Manage Git Pull Requests
+- [x] Day 30 - Git hard reset 
 
 ## Structure
 Each day contains:
