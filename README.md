@@ -41,6 +41,8 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 28 - Git Cherry Pick
 - [x] Day 29 - Manage Git Pull Requests
 - [x] Day 30 - Git hard reset 
+- [x] Day 31 - Git Stash
+
 
 ## Structure
 Each day contains:
