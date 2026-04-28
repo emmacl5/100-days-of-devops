@@ -42,6 +42,9 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 29 - Manage Git Pull Requests
 - [x] Day 30 - Git hard reset 
 - [x] Day 31 - Git Stash
+- [x] Day 32 - Git Rebase
+- [x] Day 33 - Resolve Git Merge Conflicts
+- [x] Day 34 - Git Hook
 
 
 ## Structure
