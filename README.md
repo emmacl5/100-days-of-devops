@@ -45,6 +45,9 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 32 - Git Rebase
 - [x] Day 33 - Resolve Git Merge Conflicts
 - [x] Day 34 - Git Hook
+- [x] Day 35 - Install Docker Packages and Start Docker Service
+- [x] Day 36 - Deploy Nginx Container on Application Server
+- [x] Day 37 - Copy File to Docker Container
 
 
 ## Structure
