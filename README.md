@@ -48,6 +48,9 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 35 - Install Docker Packages and Start Docker Service
 - [x] Day 36 - Deploy Nginx Container on Application Server
 - [x] Day 37 - Copy File to Docker Container
+- [x] Day 38 - Pull Docker Image
+- [x] Day 39 - Create a Docker Image From Container
+- [x] Day 40 - Docker EXEC Operations
 
 
 ## Structure
