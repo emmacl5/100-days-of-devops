@@ -51,7 +51,13 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 38 - Pull Docker Image
 - [x] Day 39 - Create a Docker Image From Container
 - [x] Day 40 - Docker EXEC Operations
-
+- [X] Day 41 - Write a Docker File
+- [x] Day 42 - Create a Docker Network
+- [x] Day 43 - Docker Ports Mapping
+- [x] Day 44 - Write a Docker Compose File
+- [x] Day 45 - Resolve Dockerfile Issues
+- [x] Day 46 - Deploy an App on Docker Containers
+- [x] Day 47 - Docker Python App
 
 ## Structure
 Each day contains:
