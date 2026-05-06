@@ -58,7 +58,7 @@ This repository documents my hands-on DevOps learning journey through daily prac
 - [x] Day 45 - Resolve Dockerfile Issues
 - [x] Day 46 - Deploy an App on Docker Containers
 - [x] Day 47 - Docker Python App
-
+- [x] Day 48 - Deploy Pods in Kubernetes Cluster
 ## Structure
 Each day contains:
 - the task
